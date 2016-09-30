@@ -1,0 +1,827 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<paper>
+	<profile>
+		  	<title>KSPOTY2</title>
+		  	<imgId>2</imgId>
+		  	<totalTime>10</totalTime>
+		  	<totalScore>30</totalScore>
+		  	<subjectCount>30</subjectCount>
+		  	<passingScore>60</passingScore>
+		  	<descriptions>KSPOTY 2 テスト</descriptions>
+		  	<creator>JOPT</creator>
+		  	<fileId>0</fileId>
+	  </profile>
+	  <subjects>
+		<subject>
+			<index>0</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>しつもんに　（　　）えよう。　　　　</subjectContent>
+			<audioid>KSPOTY201</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 答</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 覚</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 教</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 考</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>1</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>にほんの　（　　）は　きらいだ。 　　 </subjectContent>
+			<audioid>KSPOTY202</audioid>
+			<analysis></analysis>
+			<answers>
+
+			    <answer>
+			        <correct>false</correct>
+			        <content>A. 冬</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 春</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 秋</content>
+			    </answer>
+				<answer>
+					<correct>true</correct>
+					<content>D． 夏</content>
+				</answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>2</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>かんじは　むずかしいと　（　　）う。</subjectContent>
+			<audioid>KSPOTY203</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 思</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 黒</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 里</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 男</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>3</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>きょうは　かぜが　（　　）い。　　　</subjectContent>
+			<audioid>KSPOTY204</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 強</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 太</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 細</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 弱</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>4</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>あさ　おきて　（　　）を　あらう。　</subjectContent>
+			<audioid>KSPOTY205</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 顔</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 頭</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 歯</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 首</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>5</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>びょういんに　（　　）話を　かける。　</subjectContent>
+			<audioid>KSPOTY206</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 電</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 雷</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 雪</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 雲</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>6</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>直（　　）を　ひいて　みよう。　　　</subjectContent>
+			<audioid>KSPOTY207</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 線</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 紙</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 組</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 緑</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>7</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>地（　　）を　みて　さがす。　　　　</subjectContent>
+			<audioid>KSPOTY208</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 図</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 画</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 国</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 区</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>8</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>ノートに　名（　　）を　かく。　　　</subjectContent>
+			<audioid>KSPOTY209</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 前</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 明</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 記</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 毎</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>9</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>（　　）後　３時ごろ　いえに　かえる。 　　　</subjectContent>
+			<audioid>KSPOTY210</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 午</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 干</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 半</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 牛</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>10</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>こどもが　野（　　）で　あそんで　いる。　　</subjectContent>
+			<audioid>KSPOTY211</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 原</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 里</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 道</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 場</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>11</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>ひとに　（　　）切に　しよう。　　　</subjectContent>
+			<audioid>KSPOTY212</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 親</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 新</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 身</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 心</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>12</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>公（　　）で　ともだちに　あった。　</subjectContent>
+			<audioid>KSPOTY213</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 園</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 因</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 円</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 圓</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>13</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>（　　）社で　はたらく　ひとが　いる。 </subjectContent>
+			<audioid>KSPOTY214</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 会</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 外</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 開</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 回</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>14</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>アジアの　音（　　）を　きく。　　　</subjectContent>
+			<audioid>KSPOTY215</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 楽</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 角</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 画</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 茶</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>15</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>いきものの　なまえを　（　　）べる。　</subjectContent>
+			<audioid>KSPOTY216</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 調</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 教</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 習</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 集</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>16</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>キャベツの　（　　）に　むしが　いる。</subjectContent>
+			<audioid>KSPOTY217</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 葉</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 歯</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 根</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 薬</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>17</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>ものの　（　　）さを　はかる。　　　　</subjectContent>
+			<audioid>KSPOTY218</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 重</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 軽</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 深</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 長</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>18</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>（　　）は　じしゃくに　つく。　　　　 </subjectContent>
+			<audioid>KSPOTY219</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 鉄</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 金</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 銀</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 鏡</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>19</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>むしめがねを　（　　）って　みよう。　</subjectContent>
+			<audioid>KSPOTY220</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 使</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 作</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 他</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 代</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>20</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>（　　）度計を　よういする。　 　　　　</subjectContent>
+			<audioid>KSPOTY221</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 温</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 湿</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 寒</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 深</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>21</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>太（　　）の　ひかりが　あたる。　　　</subjectContent>
+			<audioid>KSPOTY222</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 陽</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 場</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 楊</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 湯</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>22</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>（　　）物の　たねを　かんさつする。　 </subjectContent>
+			<audioid>KSPOTY223</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 植</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 食</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 色</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 直</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>23</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>（　　）の　まえに　スーパーが　できた。 </subjectContent>
+			<audioid>KSPOTY224</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 駅</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 路</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 館</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 験</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>24</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>お（　　）さんの　にもつを　はこぶ。　</subjectContent>
+			<audioid>KSPOTY225</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 客</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 宮</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 宿</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 定</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>25</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>（　　）家の　ひとが　こめを　つくる。　 </subjectContent>
+			<audioid>KSPOTY226</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 農</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 商</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 童</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 業</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>26</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>（　　）文した　しなものを　とどける。 </subjectContent>
+			<audioid>KSPOTY227</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 注</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 主</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 柱</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 住</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>27</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>ふるい　道（　　）を　ならべる。　　  </subjectContent>
+			<audioid>KSPOTY228</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 具</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 真</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 貝</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 県</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>28</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>いろいろな　仕（　　）を　さがす。　</subjectContent>
+			<audioid>KSPOTY229</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 事</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 業</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 章</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 筆</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>29</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>ちずの　記（　　）を　おぼえよう。　　</subjectContent>
+			<audioid>KSPOTY230</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． 号</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. 考</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. 老</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. 者</content>
+			    </answer>
+		    </answers>
+		</subject>
+	</subjects>
+</paper>

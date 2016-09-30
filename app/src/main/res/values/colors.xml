@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="activityBGColor">#FFFFFF</color>
+    <color name="listHintColor">#FFFFFF</color>
+    <color name="listInfoColor">#525252</color>
+    <color name="listTextColor">#333333</color>
+    <color name="black">#000000</color>
+
+    <color name="progressTitleColor">#ADADAD</color>
+    <color name="processTextColor">#333333</color>
+    <color name="correctAnswerColor">#FF0000</color>
+    <color name="progressWrongEndColor">#BC4318</color>
+    <color name="progressWrongStartColor">#EC822C</color>
+
+    <color name="radiobutton_normal">#85000000</color>
+    <color name="radiobutton_pressed">#FFFE007F</color>
+    <color name="radio_colors">#FFFFFFFF</color>
+
+    <color name="title_colors">#FFFFFFFF</color>
+</resources>

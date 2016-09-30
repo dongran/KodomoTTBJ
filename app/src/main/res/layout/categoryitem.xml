@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>  
+<!-- 
+	目录界面中,ListView中列表项的界面布局文件.
+	每项包含三个元素:考卷的标题(名称),考卷的状态,考卷状态图像
+ -->
+<RelativeLayout   
+	xmlns:android="http://schemas.android.com/apk/res/android"  
+    android:layout_width="fill_parent"   
+    android:layout_height="wrap_content"   
+    android:padding="5dip"   
+    >  
+    <!-- 考卷图标 -->
+	<ImageView   
+	    android:layout_alignParentLeft="true"  
+	    android:layout_width="wrap_content"   
+	    android:layout_height="wrap_content"
+	    android:paddingRight="8dip"   
+	    android:src="@drawable/bookicon"
+	    android:id="@+id/listIcon"
+	    />   
+    <!-- 考卷标题 -->
+	<TextView   
+	    android:layout_height="wrap_content"   
+	    android:layout_width="fill_parent"
+		android:text="这是考卷标题"
+	    android:textColor="@color/listTextColor"
+	    android:layout_toRightOf="@+id/listIcon"
+	    android:textSize="18dip"
+	    android:paddingTop="3dip"
+	    android:ellipsize="marquee"
+        android:singleLine="true"     
+	    android:id="@+id/listTitle"  
+	    />  
+    
+    <!-- 考试信息 -->
+	<TextView   
+	    android:layout_height="wrap_content"   
+	    android:layout_width="fill_parent" 
+	    android:ellipsize="marquee"
+        android:singleLine="true"   
+        android:textSize="14dip"
+		android:text="这是考卷信息"
+        android:paddingTop="4dip"
+        android:textColor="@color/listInfoColor"
+	    android:layout_toRightOf="@+id/listIcon"
+	    android:layout_below="@+id/listTitle"   
+	    android:id="@+id/listInfo"  
+	    />  
+	<TextView   
+	    android:layout_height="wrap_content"   
+	    android:layout_width="fill_parent"
+		android:text="这是考卷作者"
+	    android:ellipsize="marquee"
+        android:singleLine="true"  
+        android:textSize="12dip" 
+        android:paddingTop="3dip"
+	    android:layout_toRightOf="@+id/listIcon"
+	    android:layout_below="@+id/listInfo"   
+	    android:id="@+id/listAuthor"
+		android:visibility="invisible"
+	    />
+	<TextView
+		android:layout_height="wrap_content"
+		android:layout_width="fill_parent"
+		android:text="这是考卷id"
+		android:ellipsize="marquee"
+		android:singleLine="true"
+		android:textSize="12dip"
+		android:paddingTop="3dip"
+		android:layout_toRightOf="@+id/listIcon"
+		android:layout_below="@+id/listInfo"
+		android:id="@+id/listFileName"
+		/>
+	<TextView
+		android:id="@+id/listFileId"
+		android:layout_height="1dip"
+	    android:layout_width="1dip"
+		android:text="这是文件名"
+	    android:textColor="@color/activityBGColor"
+	    android:layout_toRightOf="@id/listAuthor"
+	    android:visibility="invisible"
+	/>
+</RelativeLayout>  

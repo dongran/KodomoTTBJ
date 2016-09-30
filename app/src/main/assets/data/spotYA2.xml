@@ -1,0 +1,826 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<paper>
+	<profile>
+		  	<title>SPOTYA2</title>
+		  	<imgId>2</imgId>
+		  	<totalTime>10</totalTime>
+		  	<totalScore>30</totalScore>
+		  	<subjectCount>30</subjectCount>
+		  	<passingScore>26</passingScore>
+		  	<descriptions>SPOTYALevel 2 テスト</descriptions>
+		  	<creator>JOPT</creator>
+		  	<fileId>0</fileId>
+	  </profile>
+	  <subjects>
+		<subject>
+			<index>0</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>この　つづきは、あした（ 　 ）しましょう。</subjectContent>
+			<audioid>YA2_01</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. の</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>1</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>また　きょうも　あめ（ 　 ）ね。</subjectContent>
+			<audioid>YA2_02</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． だ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. な</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. か</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>2</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>きのうは　どう（ 　 ）たんですか。</subjectContent>
+			<audioid>YA2_03</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． し</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. も</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. で</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>3</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>みなさん、しずか（ 　 ）して。</subjectContent>
+			<audioid>YA2_04</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ん</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. な</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>4</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>あ、お金が　お（ 　 ）てるよ。</subjectContent>
+			<audioid>YA2_05</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ち</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. お</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. し</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>5</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>おそ（ 　 ）なって、すみません。</subjectContent>
+			<audioid>YA2_06</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． く</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. な</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. こ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. か</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>6</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>時間が　ないから、はやく（ 　 ）なさい。</subjectContent>
+			<audioid>YA2_07</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． し</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. じ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. ち</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. な</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>7</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>この　かんじ、なん（ 　 ）よむの。</subjectContent>
+			<audioid>YA2_08</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． て</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. け</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>8</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>あと　10円（ 　 ）か　ないよ。</subjectContent>
+			<audioid>YA2_09</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． し</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ほ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. な</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. だ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>9</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>みんな　しんぱいしてるから、かえ（ 　 ）う。</subjectContent>
+			<audioid>YA2_10</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ろ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. え</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. ど</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. る</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>10</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>この　おかし、ほんもの（ 　 ）たい。</subjectContent>
+			<audioid>YA2_11</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． み</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ま</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. も</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>11</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>あしたは　なんじに　こら（ 　 ）る。</subjectContent>
+			<audioid>YA2_12</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． れ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. え</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. ね</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>12</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>ここまで　どう（ 　 ）って　きたの。</subjectContent>
+			<audioid>YA2_13</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． や</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. し</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. い</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>13</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>なん（ 　 ）か　よく　わからない。</subjectContent>
+			<audioid>YA2_14</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． だ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. た</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. な</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>14</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>はしって（ 　 ）、もう　まにあわないよ。</subjectContent>
+			<audioid>YA2_15</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． も</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. ま</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>15</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>どこに　行って（ 　 ）たい。</subjectContent>
+			<audioid>YA2_16</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． み</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. き</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. い</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. に</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>16</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>へん（ 　 ）においが　するよ。</subjectContent>
+			<audioid>YA2_17</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． な</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. に</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>17</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>わたしにも　やら（ 　 ）て。</subjectContent>
+			<audioid>YA2_18</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． せ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. さ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. す</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. っ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>18</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>ちょっと　かして　く（ 　 ）ない。</subjectContent>
+			<audioid>YA2_19</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． れ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. り</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. ら</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. で</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>19</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>大きいけ（ 　 ）、かるいね。</subjectContent>
+			<audioid>YA2_20</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ど</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. て</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>20</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>できないなん（ 　 ）言えないよ。</subjectContent>
+			<audioid>YA2_21</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． て</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. な</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>21</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>ひらがな（ 　 ）かたかなで　かいて　ください。</subjectContent>
+			<audioid>YA2_22</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. が</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. と</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>22</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>その　ケーキ　おいし（ 　 ）うだね。</subjectContent>
+			<audioid>YA2_23</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． そ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. い</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. よ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. ょ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>23</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>いつま（ 　 ）あそんでいるの。</subjectContent>
+			<audioid>YA2_24</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. な</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. だ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. で</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>24</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>この　コップ、あまり　きれいじ（ 　 ）ないよ。</subjectContent>
+			<audioid>YA2_25</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ゃ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. な</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. あ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. い</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>25</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>ともだちに　あう（ 　 ）が　たのしみ。</subjectContent>
+			<audioid>YA2_26</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. な</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. に</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>26</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>くらくて、なにも（ 　 ）えないよ。</subjectContent>
+			<audioid>YA2_27</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． み</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. な</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. い</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. に</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>27</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>あっ、かに　ささ（ 　 ）ちゃった。</subjectContent>
+			<audioid>YA2_28</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． れ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. す</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. し</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>28</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>ひとり、ひとつず（ 　 ）とってね。</subjectContent>
+			<audioid>YA2_29</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． つ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. す</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. ず</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>29</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>よみおわった（ 　 ）、かえしてね。</subjectContent>
+			<audioid>YA2_30</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ら</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. を</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. ろ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. の</content>
+			    </answer>
+		    </answers>
+		</subject>
+	</subjects>
+</paper>

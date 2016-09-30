@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:id="@+id/subjectLayout"
+  android:layout_width="match_parent"
+  android:layout_height="match_parent"
+  android:background="@color/activityBGColor">
+
+  <!-- 题序  -->
+  <TextView
+  	android:id="@+id/subjectIndex"
+  	android:layout_width="match_parent"
+  	android:layout_height="wrap_content"
+  	android:layout_marginTop="5dip"
+  	android:textSize="16pt"
+	android:text="这是序号"
+  	android:textColor="@color/processTextColor"
+  />
+  
+  <!-- 题目内容 -->
+  <TextView 
+  	android:id="@+id/subjectContent"
+  	android:layout_width="match_parent"
+  	android:layout_height="wrap_content"
+  	android:layout_marginTop="5dip"
+  	android:padding="5dip"
+  	android:clickable="false"
+	android:text="测试测试测试测试测试测试测试测试测试测试"
+  	android:textColor="@color/processTextColor"
+	android:textSize="16pt"
+  />
+	<ImageView
+		android:id="@+id/subjectImage"
+		android:minHeight="220dp"
+		android:minWidth="140dp"
+		android:visibility="gone"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:layout_gravity="center"
+		/>
+
+  <!-- 答案选项 标题 -->
+  <!--<TextView
+  	android:text="@string/answerTitle"
+  	android:layout_height="wrap_content"
+  	android:layout_width="fill_parent"
+  	android:id="@+id/answerTitle"
+  	android:layout_marginTop="10dip"
+  	android:textSize="14pt"
+  	android:textColor="@color/processTextColor"
+  />-->
+  
+  <!-- 显示答案内容 -->
+   <LinearLayout
+		android:id="@+id/answerLayout"
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:padding="40dp"
+	    android:numColumns="2"
+	    android:layout_marginBottom="50dp"
+  	>
+              <RadioGroup
+                  android:id="@+id/radiogroup"
+                  android:layout_width="match_parent"
+                  android:layout_height="wrap_content"
+                  android:orientation="vertical">
+
+                         <LinearLayout
+                             android:layout_width="match_parent"
+                             android:layout_height="match_parent"
+                             android:orientation="horizontal">
+
+                             <RadioButton
+                                 android:id="@+id/radio0"
+                                 android:layout_width="200dp"
+                                 android:layout_height="160dp"
+                                 android:gravity="center"
+                                 android:button="@null"
+                                 android:textSize="28dp"
+                                 android:layout_margin="10dp"
+                                 android:background="@drawable/radiobutton_single"/>
+
+                             <RadioButton
+                                 android:id="@+id/radio1"
+                                 android:layout_width="200dp"
+                                 android:layout_height="160dp"
+                                 android:gravity="center"
+                                 android:button="@null"
+                                 android:textSize="28dp"
+                                 android:layout_margin="10dp"
+                                 android:background="@drawable/radiobutton_single"/>
+                         </LinearLayout>
+
+                         <LinearLayout
+                             android:layout_width="match_parent"
+                             android:layout_height="match_parent"
+                             android:orientation="horizontal">
+
+                             <RadioButton
+                                 android:id="@+id/radio2"
+                                 android:layout_width="200dp"
+                                 android:layout_height="160dp"
+                                 android:gravity="center"
+                                 android:button="@null"
+                                 android:textSize="28dp"
+                                 android:layout_margin="10dp"
+                                 android:background="@drawable/radiobutton_single"/>
+
+                             <RadioButton
+                                 android:id="@+id/radio3"
+                                 android:layout_width="200dp"
+                                 android:layout_height="160dp"
+                                 android:gravity="center"
+                                 android:button="@null"
+                                 android:textSize="28dp"
+                                 android:layout_margin="10dp"
+                                 android:background="@drawable/radiobutton_single"/>
+
+							 <RadioButton
+								 android:id="@+id/radio4"
+								 android:layout_width="200dp"
+								 android:layout_height="160dp"
+								 android:gravity="center"
+								 android:button="@null"
+								 android:visibility="gone"
+								 android:textSize="28dp"
+								 android:layout_margin="10dp"
+								 android:background="@drawable/radiobutton_single"/>
+                         </LinearLayout>
+
+               </RadioGroup>
+
+	</LinearLayout>
+
+<!--<GridView
+		android:id="@+id/answerLayout"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="0dp"
+		android:numColumns="2"
+		/>-->
+	
+</LinearLayout>

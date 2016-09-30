@@ -1,0 +1,208 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- 
+	@author SC
+	@time 2016-8-11
+	
+	考试过程中的界面布局文件
+ -->
+<RelativeLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent"
+	android:orientation="vertical"
+	android:background="@color/activityBGColor">
+
+	<ScrollView
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:fadingEdge="vertical"
+		android:background="@color/activityBGColor">
+
+		<LinearLayout
+			android:layout_width="match_parent"
+			android:layout_height="match_parent"
+			android:orientation="vertical">
+
+			<!--<LinearLayout
+				android:background="@drawable/titleimg800_bg"
+				android:layout_height="wrap_content"
+				android:layout_width="match_parent"
+				android:id="@+id/titleImg"
+				android:orientation="vertical"
+				android:gravity="center"
+				>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="TTBJ FOR KIDS "
+					android:textSize="45dp"
+					android:textColor="@color/title_colors"/>
+				<TextView
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content"
+					android:text="こどもTTBJ "
+					android:textSize="25dp"
+					android:textColor="@color/title_colors"/>
+			</LinearLayout>-->
+
+			<!-- 主界面部分 -->
+			<LinearLayout
+				xmlns:android="http://schemas.android.com/apk/res/android"
+				android:id="@+id/contentBody"
+				android:layout_below="@id/titleImg"
+				android:layout_width="match_parent"
+				android:layout_height="match_parent"
+				android:orientation="vertical"
+				android:paddingTop="8dip"
+				android:paddingLeft="10dip"
+				android:paddingRight="10dip">
+				<!-- 考卷标题 -->
+				<TextView
+					android:layout_height="wrap_content"
+					android:id="@+id/textpaperTitle"
+					android:layout_width="match_parent"
+					android:textSize="28dp"
+					android:text="@string/titleTag"
+					android:singleLine="true"
+					android:textColor="@color/progressTitleColor"
+					/>
+				<!-- 考卷信息 -->
+			<LinearLayout
+				android:layout_height="wrap_content"
+				android:layout_width="match_parent"
+				android:layout_marginTop="10dp"
+				android:textColor="@color/progressTitleColor">
+				<!-- 总考试时间 -->
+				<TextView
+					android:layout_height="wrap_content"
+					android:text="time"
+					android:textSize="24dp"
+					android:id="@+id/testpaperInfoTotalTime"
+					android:textColor="@color/progressTitleColor"
+					android:layout_width="wrap_content"/>
+				<!-- 总分 -->
+				<TextView
+					android:layout_marginLeft="10dip"
+					android:text="total"
+					android:textSize="24dp"
+					android:layout_height="wrap_content"
+					android:layout_width="wrap_content"
+					android:textColor="@color/progressTitleColor"
+					android:id="@+id/testpaperInfoTotalScore"
+					/>
+				<!-- 考试用时 -->
+				<Chronometer
+					android:layout_marginLeft="10dip"
+					android:textSize="24dp"
+					android:layout_height="wrap_content"
+					android:id="@+id/testpaperInfoElapsedTime"
+					android:textColor="@color/progressTitleColor"
+					android:layout_width="wrap_content"/>
+				</LinearLayout>
+
+				<!-- 进度       -->
+				<LinearLayout
+					android:layout_width="match_parent"
+					android:layout_height="wrap_content"
+					android:orientation="horizontal"
+					android:layout_marginTop="10dp"
+					android:layout_marginBottom="20dp">
+						<TextView
+						android:text="@string/testProcessTag"
+						android:textSize="24dp"
+						android:layout_width="wrap_content"
+						android:layout_height="wrap_content"
+						android:textColor="@color/progressTitleColor"/>
+						<ProgressBar
+							android:id="@+id/testProgressBar"
+							android:layout_width="match_parent"
+							android:layout_height="wrap_content"
+							style="@android:style/Widget.ProgressBar.Horizontal"
+
+							android:layout_gravity="center_vertical"
+							android:max="10"/>
+				</LinearLayout>
+
+				<LinearLayout
+					android:layout_width="wrap_content"
+					android:layout_height="wrap_content">
+
+					<ImageView
+						android:id="@+id/audiotip"
+						android:layout_width="60dp"
+						android:layout_height="60dp"
+						android:visibility="gone"
+						android:src="@drawable/audiotip"/>
+				</LinearLayout>
+
+				<org.kodomottbj.sunchen.edu.kodomottbj.util.MyViewFilpper
+					android:layout_width="match_parent"
+					android:layout_height="match_parent"
+					android:id="@+id/subjectViewFilpper"
+					android:longClickable="true"
+					android:background="@color/activityBGColor"
+					android:textColor="@color/processTextColor"/>
+
+			</LinearLayout> <!-- 主界面考卷信息 END -->
+
+		</LinearLayout>
+	</ScrollView>
+
+	<LinearLayout
+		android:layout_width="match_parent"
+		android:layout_height="wrap_content"
+		android:background="@drawable/menubg"
+		android:layout_alignParentBottom="true"
+		android:orientation="horizontal"
+		android:gravity="center_horizontal"
+	>
+	<!--<ImageButton
+		android:id="@+id/leftButton"
+		android:src="@drawable/left"
+		android:background="@color/activityBGColor"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content"/>-->
+		<Button android:id="@+id/skipButton"
+			android:textSize="40.0sp"
+			android:textColor="#ffffffff"
+			android:layout_gravity="center"
+			android:background="@drawable/menubg"
+			android:layout_width="fill_parent"
+			android:layout_weight="1"
+			android:layout_height="90.0dip"
+			android:layout_margin="5.0dip"
+			android:text="Skip"
+			android:visibility="invisible"
+			android:textStyle="bold" />
+
+		<TextView
+			android:layout_width="0dp"
+			android:layout_height="100dip"
+			android:background="@color/radio_colors"
+			/>
+
+		<Button android:id="@+id/submitButton"
+			android:textSize="40.0sp"
+			android:textColor="#ffffffff"
+			android:layout_gravity="center"
+			android:background="@drawable/menubg"
+			android:layout_width="fill_parent"
+			android:layout_height="90.0dip"
+			android:layout_weight="0"
+			android:layout_margin="5.0dip"
+			android:text="確認"
+			android:textStyle="bold" />
+	<!--<ImageButton
+		android:id="@+id/submitButton"
+		android:src="@drawable/answer"
+		android:background="@color/activityBGColor"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" />-->
+	<!--<ImageButton
+		android:id="@+id/rightButton"
+		android:src="@drawable/right"
+		android:background="@color/activityBGColor"
+		android:layout_width="wrap_content"
+		android:layout_height="wrap_content" />-->
+	</LinearLayout>
+</RelativeLayout>

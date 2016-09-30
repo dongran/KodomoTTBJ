@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+  xmlns:android="http://schemas.android.com/apk/res/android">
+   <item 
+  	android:id="@+id/add"
+  	android:title="@string/optionAdd"
+  	android:orderInCategory="@integer/optionAddIndex"
+  	android:icon="@drawable/openicon"
+  />
+  
+  	<item
+  	android:id="@+id/about"
+  	android:title="@string/optionAbout"
+  	android:orderInCategory="@integer/optionAboutIndex"
+  	android:icon="@drawable/abouticon"
+  	/>
+  	
+  	<item
+  	android:id="@+id/exit"
+  	android:title="@string/optionExit"
+  	android:orderInCategory="@integer/optionExitIndex"
+  	android:icon="@drawable/exiticon"
+  	/>
+</menu>

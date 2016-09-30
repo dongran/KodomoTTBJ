@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+  xmlns:android="http://schemas.android.com/apk/res/android"
+  android:orientation="vertical"
+  android:layout_width="fill_parent"
+  android:layout_height="fill_parent"
+  android:background="@drawable/background"
+  >
+	<LinearLayout
+		android:background="@drawable/titleimg800_bg"
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:orientation="vertical"
+		android:id="@+id/activityTitle"
+		android:gravity="center"
+		>
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="TTBJ FOR KIDS"
+			android:textSize="45dp"
+			android:textColor="@color/title_colors"/>
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="こどもTTBJ"
+			android:textSize="25dp"
+			android:textColor="@color/title_colors"/>
+	</LinearLayout>
+
+  <ListView 
+	  android:id="@+id/categoryList" 
+	  android:layout_below="@id/activityTitle"
+	  android:layout_height="wrap_content"
+	  android:layout_width="match_parent"
+	  android:cacheColorHint="@color/listHintColor"
+  />
+  
+</RelativeLayout>

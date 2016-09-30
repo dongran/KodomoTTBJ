@@ -1,0 +1,826 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<paper>
+	<profile>
+		  	<title>SPOTYC1</title>
+		  	<imgId>1</imgId>
+		  	<totalTime>10</totalTime>
+		  	<totalScore>30</totalScore>
+		  	<subjectCount>30</subjectCount>
+		  	<passingScore>26</passingScore>
+		  	<descriptions>SPOTYCLevel 1 テスト</descriptions>
+		  	<creator>JOPT</creator>
+		  	<fileId>0</fileId>
+	  </profile>
+	  <subjects>
+		<subject>
+			<index>0</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>悲しいからと（ 　 ）って泣いているわけにはいかない。</subjectContent>
+			<audioid>YC1_01</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． い</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. も</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. ご</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. な</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>1</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>先生に少し早目にくる（ 　 ）いいと言われた。</subjectContent>
+			<audioid>YC1_02</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． が</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. し</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. て</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>2</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>芭蕉は旅立ち（ 　 ）当たってどんな思いを抱いていたのだろう。</subjectContent>
+			<audioid>YC1_03</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. め</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. を</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>3</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>発病した動物にかまれる（ 　 ）とによって人にも感染する。</subjectContent>
+			<audioid>YC1_04</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． こ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ご</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. ひ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. と</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>4</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>いじめた相手に強いにくしみを感じたに（ 　 ）がいない。</subjectContent>
+			<audioid>YC1_05</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ち</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. い</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. は</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>5</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>試合には負けたも（ 　 ）の、過去最高の成績をあげた。</subjectContent>
+			<audioid>YC1_06</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ろ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. な</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. る</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>6</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>耳から入る情報は多い（ 　 ）、ただ何となく聞いていないだろうか。</subjectContent>
+			<audioid>YC1_07</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． が</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. わ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. し</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. は</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>7</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>キャッチコピーが的確で印象深いものになるよ（ 　 ）、表現を磨いた。</subjectContent>
+			<audioid>YC1_08</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． う</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. り</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>8</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>この絵は富士山を（ 　 ）えて控えめにひっそりと描いている。</subjectContent>
+			<audioid>YC1_09</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． あ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. そ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. こ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. か</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>9</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>データは集めたものを分類し（ 　 ）はじめて、よりよく理解できるものになる。</subjectContent>
+			<audioid>YC1_10</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． て</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. し</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. は</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>10</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>そのように書きたいという記者の気持ちも分からない（ 　 ）はありません。</subjectContent>
+			<audioid>YC1_11</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. の</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>11</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>合掌造り家屋は数百年（ 　 ）わたって、人々の暮らしを守り続けてきた。</subjectContent>
+			<audioid>YC1_12</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. を</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. の</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>12</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>タイトルの名前の人が主役（ 　 ）はかぎらない。</subjectContent>
+			<audioid>YC1_13</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. て</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. も</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>13</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>やがて、その男は川（ 　 ）背にして東に向かって歩いた。</subjectContent>
+			<audioid>YC1_14</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． を</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. の</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>14</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>健康に対する関心が高まるに（ 　 ）れ、体によい食品が注目されてきた。</subjectContent>
+			<audioid>YC1_15</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． つ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. な</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. た</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. く</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>15</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>みんなは私をやめさせなければなる（　　）いと考えていたようだ。</subjectContent>
+			<audioid>YC1_16</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ま</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. た</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. な</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>16</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>今注目されているものに関す（ 　 ）情報が豊富にある。</subjectContent>
+			<audioid>YC1_17</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． る</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. つ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. う</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. て</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>17</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>まるで自分がやったのではないと言わ（ 　 ）ばかりの態度であった。</subjectContent>
+			<audioid>YC1_18</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ん</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ぬ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. れ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. な</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>18</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>和歌は奈良時代以前から現代までの長（ 　 ）にわたって作られ続けている。</subjectContent>
+			<audioid>YC1_19</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． き</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. く</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. さ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>19</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>この古い家は誰も住まなくなり、持ち主を変える（ 　 ）かなかった。</subjectContent>
+			<audioid>YC1_20</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ほ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. し</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. か</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>20</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>話しことばの速さはどのように量的（ 　 ）表したらよいのだろうか。</subjectContent>
+			<audioid>YC1_21</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. な</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. の</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>21</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>私たちは重要な交渉に時間（ 　 ）割いた。</subjectContent>
+			<audioid>YC1_22</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． を</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. い</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. さ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>22</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>この本は英雄の活躍にとどま（ 　 ）ず、庶民の暮らしぶりにも詳しい。</subjectContent>
+			<audioid>YC1_23</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ら</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ず</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. る</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. に</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>23</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>そこに橋がないばか（ 　 ）に１キロも回り道をしなければならない。</subjectContent>
+			<audioid>YC1_24</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． り</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. ら</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. ん</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>24</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>体温が高い状態が続くと、体の調子が悪くなり、思う（ 　 ）うな動きができなくなる。</subjectContent>
+			<audioid>YC1_25</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． よ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. お</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. い</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. そ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>25</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>それぞれの品詞（ 　 ）当たる単語を三つずつ挙げてみよう。</subjectContent>
+			<audioid>YC1_26</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. を</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. が</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>26</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>私達の祖先はカヌーに乗って、星（ 　 ）頼りにここにやってきた。</subjectContent>
+			<audioid>YC1_27</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． も</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. で</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>27</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>類義語同士は意味が似ているからといって必ずし（ 　 ）置き換えられない。</subjectContent>
+			<audioid>YC1_28</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． を</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. の</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>28</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>彼のたとえ話に対応（ 　 ）せ私もたとえ話で反論した。</subjectContent>
+			<audioid>YC1_29</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． さ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ら</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. み</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>29</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>学習した手順にした（ 　 ）って、説明文を書いてみよう。</subjectContent>
+			<audioid>YC1_30</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． が</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ば</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. だ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. い</content>
+			    </answer>
+		    </answers>
+		</subject>
+	</subjects>
+</paper>

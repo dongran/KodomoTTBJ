@@ -1,0 +1,826 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<paper>
+	<profile>
+		  	<title>SPOTYB2</title>
+		  	<imgId>2</imgId>
+		  	<totalTime>10</totalTime>
+		  	<totalScore>30</totalScore>
+		  	<subjectCount>30</subjectCount>
+		  	<passingScore>26</passingScore>
+		  	<descriptions>SPOTYBLevel 2 テスト</descriptions>
+		  	<creator>JOPT</creator>
+		  	<fileId>0</fileId>
+	  </profile>
+	  <subjects>
+		<subject>
+			<index>0</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>風力発電の羽根は、大型化する（ 　 ）っぽう、弱い風でも動くよう工夫されています。</subjectContent>
+			<audioid>YB2_01</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． い</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. し</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. き</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. め</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>1</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>課題ごとにグループを作り、計画を立て、課題に（ 　 ）うじた方法で調べる。</subjectContent>
+			<audioid>YB2_02</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． お</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. つ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. ほ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. ふ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>2</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>祭りなら、たいこや笛の音がしそうな（ 　 ）のだ。</subjectContent>
+			<audioid>YB2_03</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． も</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. こ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. ん</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. の</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>3</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>健康の基本（ 　 ）ある食事を大切に考えて過ごしましょう。</subjectContent>
+			<audioid>YB2_04</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. ん</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>4</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>学習を通（ 　 ）て知ったことや感じたことをふり返る。</subjectContent>
+			<audioid>YB2_05</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． し</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. を</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. う</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. と</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>5</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>テレビはわたしたち（ 　 ）とって、とても身近なものです。</subjectContent>
+			<audioid>YB2_06</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. え</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. へ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. と</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>6</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>水やりの回数は、植物の種類に（ 　 ）ってちがいます。</subjectContent>
+			<audioid>YB2_07</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． よ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. し</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. ち</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. と</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>7</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>この行事は昔からのこの土地の習慣に（ 　 ）とづくものです。</subjectContent>
+			<audioid>YB2_08</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． も</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. す</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. こ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>8</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>あの人は交通事故にあって、車いすで（ 　 ）か生活できなくなってしまった。</subjectContent>
+			<audioid>YB2_09</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． し</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. に</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>9</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>このような苦しいとき（ 　 ）そ、未来を築くチャンスだと考えられます。</subjectContent>
+			<audioid>YB2_10</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． こ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. わ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>10</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>ニュースで見る映像が全てであるかのような錯覚におちいってしまい（ 　 ）ちです。</subjectContent>
+			<audioid>YB2_11</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． が</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. ま</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. い</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>11</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>世の中の出来事や動きを知る（ 　 ）えで、インターネットの果たす役割は大きい。</subjectContent>
+			<audioid>YB2_12</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． う</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. い</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. べ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. も</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>12</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>お湯をわかす（ 　 ）も火が必要です。</subjectContent>
+			<audioid>YB2_13</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. も</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>13</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>あいさつは人と人との交流に（ 　 ）かすことのできないものです。</subjectContent>
+			<audioid>YB2_14</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. あ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. に</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>14</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>幼稚園の子どもたちがお年寄り（ 　 ）の交流会に参加します。</subjectContent>
+			<audioid>YB2_15</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. へ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. か</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>15</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>自分がきずつける意図はなくと（ 　 ）、相手がきずつけられたと感じる場合もあります。</subjectContent>
+			<audioid>YB2_16</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． も</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. き</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. か</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>16</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>同じものであるにもかかわら（ 　 ）、写真のとり方ですいぶん異なって見えるものです。</subjectContent>
+			<audioid>YB2_17</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ず</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. し</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. す</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. に</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>17</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>「地球を守れ」という声は日増しに高（ 　 ）るばかりです。</subjectContent>
+			<audioid>YB2_18</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ま</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. め</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. な</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. わ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>18</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>ここまでの物語の構成を（ 　 ）まえて、続きを作ってみましょう。</subjectContent>
+			<audioid>YB2_19</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ふ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ま</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. く</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>19</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>戦争中には石油がなくなって、バスを炭で動かしたほ（ 　 ）でした。</subjectContent>
+			<audioid>YB2_20</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ど</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. も</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>20</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>この木は虫がつきにくい（ 　 ）え、雨にも強く、くさりにくいです。</subjectContent>
+			<audioid>YB2_21</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． う</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. に</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>21</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>お金さ（ 　 ）あればすべての問題が解決するというわけではない。</subjectContent>
+			<audioid>YB2_22</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． え</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ま</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. く</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>22</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>このシステムは、社会の発展をバランスよく、長期間に（ 　 ）たって進めていこうとするものです。</subjectContent>
+			<audioid>YB2_23</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． わ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. あ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. か</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>23</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>私たちの生活を変えることで、地球の温暖化（ 　 ）の悪影響を減らせるかもしれない。</subjectContent>
+			<audioid>YB2_24</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． へ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. え</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. い</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>24</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>人類の文明は大きな転機にさしかかっていると思わ（ 　 ）るをえない。</subjectContent>
+			<audioid>YB2_25</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ざ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ず</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. さ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. せ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>25</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>自分の経験や学習してきたことと関（ 　 ）らせて文章に書きましょう。</subjectContent>
+			<audioid>YB2_26</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． わ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. れ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. は</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>26</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>大量消費の仕組みの（ 　 ）とで、資源が浪費され、環境破壊が進んでいる。</subjectContent>
+			<audioid>YB2_27</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． も</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. よ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>27</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>言葉は変わらない部分を保ちながら（ 　 ）変化していくものである。</subjectContent>
+			<audioid>YB2_28</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． も</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. き</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. か</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>28</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>今、風力発電は世界中で広がり（ 　 ）つある。</subjectContent>
+			<audioid>YB2_29</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． つ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ず</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. す</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. に</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>29</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>家族の形態は、時代と（ 　 ）もに変わってきている。</subjectContent>
+			<audioid>YB2_30</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. わ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. か</content>
+			    </answer>
+		    </answers>
+		</subject>
+	</subjects>
+</paper>

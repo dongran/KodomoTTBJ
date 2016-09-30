@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- @author cn.edu.cfuture.chenyoca @time 2011-8-11 考试过程中的界面布局文件 -->
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+	android:layout_width="fill_parent" android:layout_height="fill_parent"
+	android:orientation="vertical" android:background="@color/activityBGColor">
+	<LinearLayout
+		android:background="@drawable/titleimg800_bg"
+		android:layout_height="wrap_content"
+		android:layout_width="match_parent"
+		android:id="@+id/titleImg"
+		android:gravity="center"
+		>
+		<TextView
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:text="子供日本語テスト"
+			android:textSize="45dp"
+			android:textColor="@color/title_colors"/>
+	</LinearLayout>
+
+	<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+		android:layout_width="fill_parent" android:layout_height="fill_parent"
+		android:orientation="vertical" android:padding="10dip">
+		
+		<TextView android:id="@+id/singleIndex" android:textColor="@color/processTextColor"
+			android:paddingBottom="5dip" android:paddingTop="8dip"
+			android:layout_width="fill_parent" android:layout_height="wrap_content">
+		</TextView>
+		<TextView android:id="@+id/singleContent"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:width="480dip" android:textColor="@color/processTextColor" />
+		<TextView android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:paddingBottom="5dip"
+			android:textColor="@color/processTextColor" android:text="@string/answerTitle" />
+		<LinearLayout android:id="@+id/singleAnswerLayout"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:padding="10dip"></LinearLayout>
+		<TextView android:layout_width="fill_parent"
+			android:layout_height="wrap_content" android:paddingBottom="5dip"
+			android:textColor="@color/processTextColor" android:text="@string/answerAnalysisTitle" />
+		<TextView android:id="@+id/singleAnswerAnalysis"
+			android:layout_width="fill_parent" android:layout_height="wrap_content"
+			android:paddingTop="5dip" android:textColor="@color/processTextColor" />
+	</LinearLayout>
+</LinearLayout>
+
+

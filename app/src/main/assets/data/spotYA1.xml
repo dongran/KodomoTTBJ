@@ -1,0 +1,826 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<paper>
+	<profile>
+		  	<title>SPOTYA1</title>
+		  	<imgId>1</imgId>
+		  	<totalTime>10</totalTime>
+		  	<totalScore>30</totalScore>
+		  	<subjectCount>30</subjectCount>
+		  	<passingScore>26</passingScore>
+		  	<descriptions>SPOTYALevel 1 テスト</descriptions>
+		  	<creator>JOPT</creator>
+		  	<fileId>0</fileId>
+	  </profile>
+	  <subjects>
+		<subject>
+			<index>0</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>これは　いく（ 　 ）ですか。</subjectContent>
+			<audioid>YA1_01</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． ら</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. た</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. だ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. つ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>1</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>きのうは　９時（ 　 ）ねました。</subjectContent>
+			<audioid>YA1_02</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. は</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>2</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>おとうさんは、どん（ 　 ）人ですか。</subjectContent>
+			<audioid>YA1_03</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． な</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. を</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>3</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>これは　たべもの（ 　 ）は　ありません。</subjectContent>
+			<audioid>YA1_04</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. も</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. に</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>4</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>もっと ゆっくり　はな（ 　 ）て　ください。</subjectContent>
+			<audioid>YA1_05</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． し</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. す</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. せ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. て</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>5</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>やすみ（ 　 ）とき、かぞくと　りょこうします。</subjectContent>
+			<audioid>YA1_06</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. ま</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. に</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>6</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>としょしつの　まえ（ 　 ）います。</subjectContent>
+			<audioid>YA1_07</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. の</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>7</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>たんじょうびは　い（ 　 ）ですか。</subjectContent>
+			<audioid>YA1_08</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． つ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ま</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. く</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. す</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>8</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>デパートで　なに（ 　 ）かいましたか。</subjectContent>
+			<audioid>YA1_09</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． を</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. た</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. お</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. よ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>9</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>いっしょに　たべましょ（ 　 ）。</subjectContent>
+			<audioid>YA1_10</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． う</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. を</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. お</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. か</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>10</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>はさみ（ 　 ）どこですか。</subjectContent>
+			<audioid>YA1_11</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ど</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. わ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>11</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>かいものに　行き（ 　 ）いです。</subjectContent>
+			<audioid>YA1_12</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． た</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. い</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. だ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>12</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>かんじは　おもしろいです（ 　 ）、むずかしいです。</subjectContent>
+			<audioid>YA1_13</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． が</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. だ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. と</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>13</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>これは　（ 　 ）れの　かさですか。</subjectContent>
+			<audioid>YA1_14</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． だ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ど</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. こ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>14</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>この　本は　ともだち（ 　 ）もらいました。</subjectContent>
+			<audioid>YA1_15</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. が</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. は</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>15</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>たべものは、なに（ 　 ）ありません。</subjectContent>
+			<audioid>YA1_16</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． も</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. ほ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. が</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. の</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>16</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>きのうは　ひとり（ 　 ）かえりました。</subjectContent>
+			<audioid>YA1_17</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. も</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>17</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>この　山は　あまり　たか（ 　 ）ないです。</subjectContent>
+			<audioid>YA1_18</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． く</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. こ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. い</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. う</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>18</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>先生に　き（ 　 ）て　ください。</subjectContent>
+			<audioid>YA1_19</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． い</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. り</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. て</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. っ</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>19</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>つくえの　上に　本（ 　 ）ノートが　あります。</subjectContent>
+			<audioid>YA1_20</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. か</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. が</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>20</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>しゅくだいを　わすれ（ 　 ）いで　ください。</subjectContent>
+			<audioid>YA1_21</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. と</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. を</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>21</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>きのうは、川（ 　 ）あそびました。</subjectContent>
+			<audioid>YA1_22</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． に</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. は</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>22</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>ボールペン（ 　 ）かいて　ください。</subjectContent>
+			<audioid>YA1_23</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. を</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. に</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>23</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>ケーキは　れいぞうこ（ 　 ）中です。</subjectContent>
+			<audioid>YA1_24</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. が</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. と</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>24</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>せんげつ、山（ 　 ）行きました。</subjectContent>
+			<audioid>YA1_25</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． へ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. ま</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. え</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>25</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>なんじごろ　いえ（ 　 ）でましたか。</subjectContent>
+			<audioid>YA1_26</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． を</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. が</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. お</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. は</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>26</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>ここに、きのう（ 　 ）きました。</subjectContent>
+			<audioid>YA1_27</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． も</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. で</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. を</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>27</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>そこは　にぎやか（ 　 ）ところです。</subjectContent>
+			<audioid>YA1_28</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． な</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. こ</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. に</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>28</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>きょうしつ（ 　 ）はいって　ください。</subjectContent>
+			<audioid>YA1_29</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． な</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. る</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. て</content>
+			    </answer>
+		    </answers>
+		</subject>
+		<subject>
+			<index>29</index>
+			<type>0</type>
+			<value>10</value>
+			<image>null</image>
+			<subjectContent>きのうから　おなか（ 　 ）いたいんです。</subjectContent>
+			<audioid>YA1_30</audioid>
+			<analysis></analysis>
+			<answers>
+			    <answer>
+			        <correct>true</correct>
+			        <content>A． が</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>B. の</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>C. は</content>
+			    </answer>
+			    <answer>
+			        <correct>false</correct>
+			        <content>D. も</content>
+			    </answer>
+		    </answers>
+		</subject>
+	</subjects>
+</paper>

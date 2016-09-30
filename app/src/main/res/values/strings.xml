@@ -1,0 +1,112 @@
+<resources>
+    <string name="app_name">KodomoTTBJver2</string>
+
+    <string name="navigation_drawer_open">welcome  KodomoTTBJ</string>
+    <string name="navigation_drawer_close">Close KodomoTTBJ</string>
+
+    <string name="action_settings">Settings</string>
+
+
+    <!-- 上下文菜单选项文字 -->
+    <string name="contextView">結果表示</string>
+    <string name="contextRestart">再試験</string>
+    <string name="contextClean">履歴クリア</string>
+    <string name="contextDelete">試験削除</string>
+    <!-- 上下文菜单的序号 -->
+    <integer name="contextViewIndex">1</integer>
+    <integer name="contextRestartIndex">2</integer>
+    <integer name="contextCleanIndex">3</integer>
+    <integer name="contextDeleteIndex">4</integer>
+    <!-- 选项菜单文字 -->
+    <string name="optionAdd">試験追加</string>
+    <string name="optionAds">おすすめ</string>
+    <string name="optionAbout">HELP</string>
+    <string name="optionExit">EXIT</string>
+
+    <!-- 选项菜单序号 -->
+    <integer name="optionAddIndex">1</integer>
+    <integer name="optionAdsIndex">2</integer>
+    <integer name="optionAboutIndex">3</integer>
+    <integer name="optionExitIndex">4</integer>
+
+    <string name="titleTag">試験名：%1$s</string>
+    <string name="infoTotalTimeTag">Description：</string>
+    <string name="infoTotalScoreTag">TOTAL Num：</string>
+    <string name="infoElapsedTimeTag">Used Time：</string>
+    <string name="testProcessTag">進捗：</string>
+    <string name="submitAnswer">回答</string>
+    <string name="subjectIndex">第&#160;%1$s&#160;番：    </string>
+    <string name="answerTitle">選択肢：</string>
+    <string name="answerAnalysisTitle">問題解析：</string>
+
+    <string name="profileInfo">Total Time：%1$d&#160;&#160;&#160;&#160;Total Score：%2$d&#160;&#160;&#160;&#160;Used Time：%3$s:%4$s</string>
+    <string name="profileTitle">試験：%1$s</string>
+    <string name="profileNotSubject">This topic does not exist！</string>
+    <string name="listAuthor">：%1$s</string>
+
+    <!-- 考试过程中点击返回键显示提示框的内容 -->
+    <string name="exitTitle">rExit Tips</string>
+    <string name="duplicatNameTitle">文件重名提示</string>
+    <string name="downloadTitle">安卓考试下载提示</string>
+    <string name="buttonOverWriteOK">确定覆盖</string>
+    <string name="buttonOK">確認</string>
+    <string name="buttonCancle"></string>
+    <string name="exitTip">あなたが受験している、メインインターフェイスに戻りますか？</string>
+    <string name="fileExistsTip">发现相同的文件已经存在，你无论如何也要下载吗？</string>
+
+    <integer name="subjectContentMaxLength">120</integer>
+    <integer name="subjectContentNormalFont">28</integer>
+    <integer name="subjectContentSmallFont">24</integer>
+
+    <integer name="answerContentMaxLength">50</integer>
+    <integer name="answerContentNormalFont">28</integer>
+    <integer name="answerContentSmallFont">24</integer>
+
+    <string name="xmlEmptyError">このソフトは、試験を存在しない、試験をダウンロードするためにネットワークを接続してください...</string>
+    <string name="parseError">SAX parsing XML file failed engine, the file may have been destroyed！</string>
+    <string name="parseSingleError">考卷目录某个考卷文件被破坏！</string>
+    <string name="noWIFI">你的WIFI未开启!请打开Wifi后重试。</string>
+    <string name="xmlLoadingTip">正从服务端加载数据...</string>
+    <string name="xmlLoadingTitle">Net Connecting</string>
+    <string name="dlDownloadingTip">Downloading[ %1$s ]...</string>
+    <string name="dlFileExistsError">文件已经存在，不需要重复下载。</string>
+    <string name="dlInputEmptyError">Unable to get the file!</string>
+    <string name="dlConnectError">网络异常！请检查网络连接是否正常!</string>
+    <string name="dlClientError">网络通讯异常!</string>
+    <string name="dlNoList">无法获取文件列表！</string>
+    <string name="dlCompleteTip">下载完成！</string>
+
+    <string name="please_input_username">アカウントを入力してください</string>
+    <string name="please_input_password">パスワードを入力してください</string>
+    <string name="login">LOGIN</string>
+    <string name="register">Register</string>
+
+    <string name="login_lose">Login Failed！！！</string>
+    <string name="pass_miss">Password Err！！！</string>
+    <string name="user_pass_isnotnull">Account or password can not be empty！！！</string>
+    <string name="user_isnotnull">Account can not be empty！！！</string>
+    <string name="pass_isnotnull">password can not be empty！！！</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+
+    <string name="soft_update_no"> Already the latest version</string>
+    <string name="soft_update_title">Software update</string>
+    <string name="soft_update_info">We have updated our products and now it is available for you</string>
+    <string name="soft_update_updatebtn">Update</string>
+    <string name="soft_update_later">Update later</string>
+    <string name="soft_updating">Updating</string>
+    <string name="soft_update_cancel">Cancel</string>
+</resources>
